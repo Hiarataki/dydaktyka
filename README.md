@@ -1,24 +1,24 @@
 # dydaktyka
 # dydaktyka
-
+ <body bgcolor="green">
 <p><b>ZADANIE 1</b></p>
-<p> align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
-<p> align="right"> <font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
-<p> align="right"> <font color="green" size="3" face="Calibri"> Szymon </font> </p> <br>
-<p> align="right"> <font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> <br>
-<p> align="right"> <font color="pink" size="5" face="Arial Black"> Szymon </font> </p> <br>
-<p> align="right"> <font color="black" size="6" face="Aharoni"> Szymon </font> </p> <br>
-<p> align="right"> <font color="brown" size="7" face="Batang"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="green" size="3" face="Calibri"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="pink" size="5" face="Arial Black"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="black" size="6" face="Aharoni"> Szymon </font> </p> <br>
+<p> <align="right"> <font color="brown" size="7" face="Batang"> Szymon </font> </p> <br>
 <h1>MALEK</h1><br>
 <h2>MALEK</h2><br>
 <h3>Malek</h3><br>
 <h4>Malek</h4><br>
 <h5>Malek</h5><br>
 <h6>Malek</h6><br>
-<p> align="right"> <font color="red" size="3" face="Calibri"> :( smutek </font> </p> <br>
-<p> align="right"> <font color="blue" size="2" face="Arial Narrow"> :( zmartwienie </font> </p> <br>
-<p> align="right"> <font color="green" size="1" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
-<p> align="right"> <font color="yellow" size="4" face="Algerian"> ';(płacz </font> </p> <br>
+<p> <lign="right"> <font color="red" size="3" face="Calibri"> :( smutek </font> </p> <br>
+<p> <align="right"> <font color="blue" size="2" face="Arial Narrow"> :( zmartwienie </font> </p> <br>
+<p> <align="right"> <font color="green" size="1" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
+<p> <align="right"> <font color="yellow" size="4" face="Algerian"> ';(płacz </font> </p> <br>
 <p> align="right"> <font color="black" size="6" face="Calibri"> :'( płacz </font> </p> <br>
 <p> align="right"> <font color="brown" size="8" face="Calibri"> :C duży smutek </font> </p> <br>
 <p>ZADANIE 2</p>
@@ -29,10 +29,12 @@
   <p> align="right">H<sub>2</sub>SO<sub>4</sub></p>
 
   <p><b>ZADANIE  3</b></p>
-  <body bgcolor="green">
+ 
 <h1 ALIGN=right >Dowcipy o mężu i żonie</h1>
 <FIELDSET>
- <LEGEND> Dowcip i mężu i żonie </LEGEND> 
+ <IMG SRC="pieniądze.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="pieniądze">
+   <IMG SRC="usa.gif" ALIGN=left BORDER=3 WIDTH=200 HEIGHT=300 ALT="pieniądze">
+   <LEGEND> Dowcip i mężu i żonie </LEGEND> 
  <br>
 Żona do męża :
 - Wydajesz pieniądze tylko na głupoty ...
@@ -42,7 +44,7 @@
 <h1 ALIGN=right ></h1>
 <FIELDSET>
 <h1 ALIGN=right >Dowcipy o bacy</h1>
- <IMG SRC="rysun.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="PIŁKA"><LEGEND>Dowcip o bacy </LEGEND> 
+ <IMG SRC="piłka.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="PIŁKA"><LEGEND>Dowcip o bacy </LEGEND> 
  <br>
  Wchodzi baca do sklepu i pyta się sprzedawczyni:
 - Przepraszam, czy macie w sprzedaży takie te duże piłki do fitness?
@@ -63,7 +65,6 @@
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
 </body>
-<body bgcolor="green">
 <h1 ALIGN=right >Dowcipy o mężu i żonie</h1>
 <FIELDSET>
  <LEGEND> Dowcip i mężu i żonie </LEGEND> 
@@ -96,7 +97,7 @@
 - No cóż jest też Pani dosyć brzydka...<br>
 </FIELDSET>
   <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
-</body>
+
   <p>ZADANIE 4</p>
  <p><h1><b1>ponżej są trzy wyliczenia z różnymi znakami wyliczenia <p> Ty zaproponuj swoje , związane z infrmatyką</p></b1></h1>
 <p>Możliwości formatowania tekstu w HTML</p>
@@ -116,3 +117,4 @@
 <LI> RJ-45
   
 <LI> BIOS</p>
+  </body>
