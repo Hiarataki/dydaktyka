@@ -26,7 +26,7 @@
 <p align="left"><font color="yellow" size="7" face="Calibri"><sub>Czerwone Gitary</font></sub></p> <br>
 <p align="right"><b> 14 czerwca 1999</b></p> <br>
 <p align="right">H<sub>2</sub>SO<sub>4</sub>
-<p align="middle"><font color="blue" size="9" face="Algerian"><strike>X<sup>*</sup>x=x<sup>2</strike></sup></font>
+<p align="middle"><font color="blue" size="2" face="Algerian">X<sup>*</sup>x=x<sup>2</sup></font>
   <p><b>ZADANIE  3</b></p>
   <body bgcolor="green">
 <h1 ALIGN=right >Dowcipy o mężu i żonie</h1>
