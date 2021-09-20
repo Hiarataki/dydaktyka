@@ -1,5 +1,6 @@
 # dydaktyka
 # dydaktyka
+
 <p><b>ZADANIE 1</b></p>
 <p align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
 <p align="right"> <font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
@@ -23,10 +24,10 @@
 <p>ZADANIE 2</p>
 <p align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> <br>
 <p align="middle"><strike><b><font color=„red” size=„8” face=„Comic Sans MT”><sup>Cezary Pazura</b></strike></font></sup> </p> <br>
-<p align="left"><font color="yellow" size="7" face="Calibri"><sub>Czerwone Gitary</font></sub></p> <br>
+<p align="left"><font color="yellow" size="7" face="Calibri">Czerwone Gitary</font></p> <br>
 <p align="right"><b> 14 czerwca 1999</b></p> <br>
 <p align="right">H<sub>2</sub>SO<sub>4</sub>
-<p align="middle"><font color="blue" size="2" face="Algerian">X<sup>*</sup>x=x<sup>2</sup></font>
+
   <p><b>ZADANIE  3</b></p>
   <body bgcolor="green">
 <h1 ALIGN=right >Dowcipy o mężu i żonie</h1>
