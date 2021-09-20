@@ -2,27 +2,27 @@
 # dydaktyka
 
 <p><b>ZADANIE 1</b></p>
-<p align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
-<p align="right"> <font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
-<p align="right"> <font color="green" size="3" face="Calibri"> Szymon </font> </p> <br>
-<p align="right"> <font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> <br>
-<p align="right"> <font color="pink" size="5" face="Arial Black"> Szymon </font> </p> <br>
-<p align="right"> <font color="black" size="6" face="Aharoni"> Szymon </font> </p> <br>
-<p align="right"> <font color="brown" size="7" face="Batang"> Szymon </font> </p> <br>
+<p> align="right"> <font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
+<p> align="right"> <font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
+<p> align="right"> <font color="green" size="3" face="Calibri"> Szymon </font> </p> <br>
+<p> align="right"> <font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> <br>
+<p> align="right"> <font color="pink" size="5" face="Arial Black"> Szymon </font> </p> <br>
+<p> align="right"> <font color="black" size="6" face="Aharoni"> Szymon </font> </p> <br>
+<p> align="right"> <font color="brown" size="7" face="Batang"> Szymon </font> </p> <br>
 <h1>MALEK</h1><br>
 <h2>MALEK</h2><br>
 <h3>Malek</h3><br>
 <h4>Malek</h4><br>
 <h5>Malek</h5><br>
 <h6>Malek</h6><br>
-<p align="right"> <font color="red" size="3" face="Calibri"> :( smutek </font> </p> <br>
-<p align="right"> <font color="blue" size="2" face="Arial Narrow"> :( zmartwienie </font> </p> <br>
-<p align="right"> <font color="green" size="1" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
-<p align="right"> <font color="yellow" size="4" face="Algerian"> ';(płacz </font> </p> <br>
-<p align="right"> <font color="black" size="6" face="Calibri"> :'( płacz </font> </p> <br>
-<p align="right"> <font color="brown" size="8" face="Calibri"> :C duży smutek </font> </p> <br>
+<p> align="right"> <font color="red" size="3" face="Calibri"> :( smutek </font> </p> <br>
+<p> align="right"> <font color="blue" size="2" face="Arial Narrow"> :( zmartwienie </font> </p> <br>
+<p> align="right"> <font color="green" size="1" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
+<p> align="right"> <font color="yellow" size="4" face="Algerian"> ';(płacz </font> </p> <br>
+<p> align="right"> <font color="black" size="6" face="Calibri"> :'( płacz </font> </p> <br>
+<p> align="right"> <font color="brown" size="8" face="Calibri"> :C duży smutek </font> </p> <br>
 <p>ZADANIE 2</p>
-<p align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> <br>
+<p> align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> <br>
 <p> align="middle"><b><font color=„red” size=„8” face=„Comic Sans MT”><STRIKE><sup>Cezary Pazura</b></strike></font></sup> </p> <br>
 <p> align="left"><font color="yellow" size="7" face="Calibri">Czerwone Gitary</font></p> <br>
 <p> align="right"><b> 14 czerwca 1999</b></p> <br>
