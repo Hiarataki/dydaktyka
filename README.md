@@ -41,7 +41,7 @@
 <h1 ALIGN=right ></h1>
 <FIELDSET>
 <h1 ALIGN=right >Dowcipy o bacy</h1>
- <LEGEND>Dowcip o bacy </LEGEND> 
+ <IMG SRC="rysun.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="PIŁKA"><LEGEND>Dowcip o bacy </LEGEND> 
  <br>
  Wchodzi baca do sklepu i pyta się sprzedawczyni:
 - Przepraszam, czy macie w sprzedaży takie te duże piłki do fitness?
@@ -75,7 +75,7 @@
 <h1 ALIGN=right ></h1>
 <FIELDSET>
 <h1 ALIGN=right >Dowcipy o bacy</h1>
- <LEGEND>Dowcip o bacy </LEGEND> 
+<IMG SRC="piłka.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="PIŁKA"> <LEGEND>Dowcip o bacy </LEGEND> 
  <br>
  Wchodzi baca do sklepu i pyta się sprzedawczyni:
 - Przepraszam, czy macie w sprzedaży takie te duże piłki do fitness?
