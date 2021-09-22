@@ -2,13 +2,13 @@
 # dydaktyka
  <body bgcolor="green">
 <p><b>ZADANIE 1</b></p>
-<p> <align="right" font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
-<p> <align="right" font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
-<p> <align="right" font color="green" size="3" face="Calibri"> Szymon </font> </p> <br>
-<p> <align="right" font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> <br>
-<p> <align="right" font color="pink" size="5" face="Arial Black"> Szymon </font> </p> <br>
-<p> <align="right" font color="black" size="6" face="Aharoni"> Szymon </font> </p> <br>
-<p> <align="right" font color="brown" size="7" face="Batang"> Szymon </font> </p> <br>
+<p> <br><align="right" font color="red" size="1" face="Arial"> Szymon </font> </p> </br>
+<p> <br><align="right" font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> </br>
+<p> <br><align="right" font color="green" size="3" face="Calibri"> Szymon </font> </p> </br>
+<p> <br><align="right" font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> </br>
+<p> <br><align="right" font color="pink" size="5" face="Arial Black"> Szymon </font> </p> </br>
+<p> <br><align="right" font color="black" size="6" face="Aharoni"> Szymon </font> </p> </br>
+<p> <br><align="right" font color="brown" size="7" face="Batang"> Szymon </font> </p> </br>
 <h1>MALEK</h1><br>
 <h2>MALEK</h2><br>
 <h3>Malek</h3><br>
