@@ -19,14 +19,14 @@
 <p> <align="right"> <font color="blue" size="2" face="Arial Narrow"> :( zmartwienie </font> </p> <br>
 <p> <align="right"> <font color="green" size="1" face="Comic Sans MT"> :C duży smutek </font> </p> <br>
 <p> <align="right"> <font color="yellow" size="4" face="Algerian"> ';(płacz </font> </p> <br>
-<p> align="right"> <font color="black" size="6" face="Calibri"> :'( płacz </font> </p> <br>
-<p> align="right"> <font color="brown" size="8" face="Calibri"> :C duży smutek </font> </p> <br>
+<p> <align="right"> <font color="black" size="6" face="Calibri"> :'( płacz </font> </p> <br>
+<p> <align="right"> <font color="brown" size="8" face="Calibri"> :C duży smutek </font> </p> <br>
 <p>ZADANIE 2</p>
-<p> align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> <br>
-<p> align="middle"><b><font color=„red” size=„8” face=„Comic Sans MT”><STRIKE><sup>Cezary Pazura</b></strike></font></sup> </p> <br>
-<p> align="left"><font color="yellow" size="7" face="Calibri">Czerwone Gitary</font></p> <br>
-<p> align="right"><b> 14 czerwca 1999</b></p> <br>
-  <p> align="right">H<sub>2</sub>SO<sub>4</sub></p>
+<p> <align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> <br>
+<p> <align="middle"><b><font color=„red” size=„8” face=„Comic Sans MT”><STRIKE><sup>Cezary Pazura</b></strike></font></sup> </p> <br>
+<p> <align="left"><font color="yellow" size="7" face="Calibri">Czerwone Gitary</font></p> <br>
+<p> <align="right"><b> 14 czerwca 1999</b></p> <br>
+  <p> <align="right">H<sub>2</sub>SO<sub>4</sub></p>
 
   <p><b>ZADANIE  3</b></p>
  
@@ -37,31 +37,31 @@
    <LEGEND> Dowcip i mężu i żonie </LEGEND> 
  <br>
 Żona do męża :
-- Wydajesz pieniądze tylko na głupoty ...
-<P>- Najwięcej to na Ciebie...</P><br>
+<p>- Wydajesz pieniądze tylko na głupoty ...</p>
+<P>- Najwięcej to na Ciebie...</P></br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLUE>
 <h1 ALIGN=right ></h1>
 <FIELDSET>
-<h1 ALIGN=right >Dowcipy o bacy</h1>
+<h1 ALIGN=right >Dowcip o bacy</h1>
  <IMG SRC="piłka.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="PIŁKA"><LEGEND>Dowcip o bacy </LEGEND> 
  <br>
  Wchodzi baca do sklepu i pyta się sprzedawczyni:
-- Przepraszam, czy macie w sprzedaży takie te duże piłki do fitness?
+<P>- Przepraszam, czy macie w sprzedaży takie te duże piłki do fitness?</p>
 - Nie, nie mamy.
-- A takie maty do jogi, nie macie? - pyta dalej baca.
+<P>- A takie maty do jogi, nie macie? - pyta dalej baca.</p>
 - Baca, tu jest sklep monopolowy, my sprzedajemy alkohol - tłumaczy sprzedawczyni.
-- Jaaaj, szkoda... To poproszę dwa razy zero-siedem, ale Bóg mi świadkiem, że chciałem ćwiczyć...<br>
+<p>- Jaaaj, szkoda... To poproszę dwa razy zero-siedem, ale Bóg mi świadkiem, że chciałem ćwiczyć...</p></br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>
 <FIELDSET>
-<h1 ALIGN=right >lekarz</h1>
-<LEGEND> Dowcip o lekarzu i babie </LEGEND> 
+<h1 ALIGN=right> lekarz</h1><IMG SRC="lekarz.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="lekarz">
+ <legend>Dowcip o lekarzu i babie</legend>  
  <br>
- Lekarz do pacjentki:
-- Ma Pani nadwagę.
+ <p>Lekarz do pacjentki:</p>
+<p>- Ma Pani nadwagę.</p>
 - W mojej sprawie chciałabym poznać jeszcze jedną opinię...
-- No cóż jest też Pani dosyć brzydka...<br>
+<p>- No cóż jest też Pani dosyć brzydka...</p></br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
 </body>
@@ -71,7 +71,7 @@
  <br>
 Żona do męża :
 - Wydajesz pieniądze tylko na głupoty ...
-<P>- Najwięcej to na Ciebie...</P><br>
+<P>- Najwięcej to na Ciebie...</P></br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLUE>
 <h1 ALIGN=right ></h1>
@@ -84,7 +84,7 @@
 - Nie, nie mamy.
 - A takie maty do jogi, nie macie? - pyta dalej baca.
 - Baca, tu jest sklep monopolowy, my sprzedajemy alkohol - tłumaczy sprzedawczyni.
-- Jaaaj, szkoda... To poproszę dwa razy zero-siedem, ale Bóg mi świadkiem, że chciałem ćwiczyć...<br>
+- Jaaaj, szkoda... To poproszę dwa razy zero-siedem, ale Bóg mi świadkiem, że chciałem ćwiczyć...</br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>
 <FIELDSET>
@@ -94,7 +94,7 @@
  Lekarz do pacjentki:
 - Ma Pani nadwagę.
 - W mojej sprawie chciałabym poznać jeszcze jedną opinię...
-- No cóż jest też Pani dosyć brzydka...<br>
+- No cóż jest też Pani dosyć brzydka...</br>
 </FIELDSET>
   <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
 
