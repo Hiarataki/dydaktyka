@@ -2,7 +2,7 @@
 # dydaktyka
  <body bgcolor="green">
 <p><b>ZADANIE 1</b></p>
-<p> <align="right" ><font color="red" size="1" face="Arial"> Szymon </font> </p <br>
+ <p> <align="right" ><font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
 <p> <align="right" ><font color="blue" size="2" face="Times New Roman"> Szymon </font> </p> <br>
 <p> <align="right" ><font color="green" size="3" face="Calibri"> Szymon </font> </p> </br>
 <p> <align="right" ><font color="yellow" size="4" face="Comic Sans TM"> Szymon </font> </p> <br>
