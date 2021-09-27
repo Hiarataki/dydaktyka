@@ -58,21 +58,14 @@
 <h1 ALIGN=right> lekarz</h1><IMG SRC="lekarz.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="lekarz">
  <legend>Dowcip o lekarzu i babie</legend>  
  <br>
- <p>Lekarz do pacjentki:</p>
+ <p>Lekarz do pacjentki:</p><IMG SRC="lekarz.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="lekarz">
 <p>- Ma Pani nadwagę.</p>
 - W mojej sprawie chciałabym poznać jeszcze jedną opinię...
 <p>- No cóż jest też Pani dosyć brzydka...</p></br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
 </body>
-<h1 ALIGN=right >Dowcipy o mężu i żonie</h1>
-<FIELDSET>
- <LEGEND> Dowcip i mężu i żonie </LEGEND> 
- <br>
-Żona do męża :
-- Wydajesz pieniądze tylko na głupoty ...
-<P>- Najwięcej to na Ciebie...</P></br>
-</FIELDSET>
+
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLUE>
 <h1 ALIGN=right ></h1>
 <FIELDSET>
@@ -89,13 +82,7 @@
 <HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>
 <FIELDSET>
 <h1 ALIGN=right >lekarz</h1>
-<LEGEND> Dowcip o lekarzu i babie </LEGEND> 
- <br>
- Lekarz do pacjentki:
-- Ma Pani nadwagę.
-- W mojej sprawie chciałabym poznać jeszcze jedną opinię...
-- No cóż jest też Pani dosyć brzydka...</br>
-</FIELDSET>
+
   <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
 
   <p>ZADANIE 4</p>
