@@ -79,11 +79,7 @@
 - Baca, tu jest sklep monopolowy, my sprzedajemy alkohol - tłumaczy sprzedawczyni.
 - Jaaaj, szkoda... To poproszę dwa razy zero-siedem, ale Bóg mi świadkiem, że chciałem ćwiczyć...</br>
 </FIELDSET>
-<HR SIZE=4 WIDTH=50% ALIGN=LEFT COLOR=red>
-<FIELDSET>
-<h1 ALIGN=right >lekarz</h1>
 
-  <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
 
   <p>ZADANIE 4</p>
  <p><h1><b1>ponżej są trzy wyliczenia z różnymi znakami wyliczenia <p> Ty zaproponuj swoje , związane z infrmatyką</p></b1></h1>
