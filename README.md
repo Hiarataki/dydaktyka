@@ -22,10 +22,10 @@
 <p> <align="right"> <font color="black" size="6" face="Calibri"> :'( płacz </font> </p> <br>
 <p> <align="right"> <font color="brown" size="8" face="Calibri"> :C duży smutek </font> </p> <br>
 <p>ZADANIE 2</p>
-<p> <align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> <br>
-<p> <align="middle"><b><font color=„red” size=„8” face=„Comic Sans MT”><STRIKE><sup>Cezary Pazura</b></strike></font></sup> </p> <br>
-<p> <align="left"><font color="yellow" size="7" face="Calibri">Czerwone Gitary</font></p> <br>
-<p> <align="right"><b> 14 czerwca 1999</b></p> <br>
+<p> <align="right"><u><i>28-987 Jana Sodomskiiego 21/12<i></u></p> 
+<p> <align="middle"><b><font color=„red” size=„8” face=„Comic Sans MT”><sup><strike>Cezary Pazura</b></strike></font></sup> </p> 
+<p> <align="left"><font color="yellow" size="7" face="Calibri">Czerwone Gitary</font></p> 
+<p> <align="right"><b> 14 czerwca 1999</b></p> 
   <p> <align="right">H<sub>2</sub>SO<sub>4</sub></p>
 
   <p><b>ZADANIE  3</b></p>
