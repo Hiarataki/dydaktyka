@@ -68,18 +68,6 @@
 
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLUE>
 <h1 ALIGN=right ></h1>
-<FIELDSET>
-<h1 ALIGN=right >Dowcipy o bacy</h1>
-<IMG SRC="piłka.gif" ALIGN=right BORDER=3 WIDTH=200 HEIGHT=300 ALT="PIŁKA"> <LEGEND>Dowcip o bacy </LEGEND> 
- <br>
- Wchodzi baca do sklepu i pyta się sprzedawczyni:
-- Przepraszam, czy macie w sprzedaży takie te duże piłki do fitness?
-- Nie, nie mamy.
-- A takie maty do jogi, nie macie? - pyta dalej baca.
-- Baca, tu jest sklep monopolowy, my sprzedajemy alkohol - tłumaczy sprzedawczyni.
-- Jaaaj, szkoda... To poproszę dwa razy zero-siedem, ale Bóg mi świadkiem, że chciałem ćwiczyć...</br>
-</FIELDSET>
-
 
   <p>ZADANIE 4</p>
  <p><h1><b1>ponżej są trzy wyliczenia z różnymi znakami wyliczenia <p> Ty zaproponuj swoje , związane z infrmatyką</p></b1></h1>
