@@ -96,7 +96,7 @@
 <A HREF="poczta_Malek.html"> poczta </A><br>
 <A HREF="plik_Malek.html"> plik </A><br>
 <A HREF="tabela_Malek.html"> tabela </A><br>
-<A HREF="formularz_Malek.html"> formularz </A><br>
+<A HREF="Formularz_Malek.html"> formularz </A><br>
  
  </body>
  
