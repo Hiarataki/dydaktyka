@@ -64,7 +64,7 @@
 <p>- No cóż jest też Pani dosyć brzydka...</p></br>
 </FIELDSET>
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLACK>
-</body>
+
 
 <HR SIZE=4 WIDTH=50% ALIGN=CENTER COLOR=BLUE>
 <h1 ALIGN=right ></h1>
@@ -88,4 +88,17 @@
 <LI> RJ-45
   
 <LI> BIOS</p>
-  </body>
+  
+
+ 
+ <p>zadanie</p>
+ <A NAME="dol"></A>			
+<A HREF="poczta_Malek.html"> poczta </A><br>
+<A HREF="plik_Malek.html"> plik </A><br>
+<A HREF="#gora">GORA STRONY</A><br>
+<A HREF="#srodek">SRODEK STRONY</A><br>
+<A HREF="tabela_Malek.html"> tabela </A><br>
+<A HREF="formularz_Malek.html"> formularz </A><br>
+ 
+ </body>
+ 
