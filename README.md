@@ -95,8 +95,6 @@
  <A NAME="dol"></A>			
 <A HREF="poczta_Malek.html"> poczta </A><br>
 <A HREF="plik_Malek.html"> plik </A><br>
-<A HREF="#gora">GORA STRONY</A><br>
-<A HREF="#srodek">SRODEK STRONY</A><br>
 <A HREF="tabela_Malek.html"> tabela </A><br>
 <A HREF="formularz_Malek.html"> formularz </A><br>
  
