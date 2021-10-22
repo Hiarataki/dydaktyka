@@ -1,5 +1,6 @@
 # dydaktyka
 # dydaktyka
+<body>
  <body bgcolor="green">
 <p><b>ZADANIE 1</b></p>
  <p> <align="right" ><font color="red" size="1" face="Arial"> Szymon </font> </p> <br>
